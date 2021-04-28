@@ -1,3 +1,3 @@
 # HeartDiseaseML
 
-Dataset ** https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+Dataset ** https://www.kaggle.com/ronitf/heart-disease-uci
