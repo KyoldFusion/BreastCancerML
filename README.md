@@ -1,6 +1,6 @@
 
 
-Phase 1: Import individual datasets from Kaggle-> https://www.kaggle.com/ronitf/heart-disease-uci -> Discuss Roles / Responsibilities
+<h2>Phase 1: Import individual datasets from Kaggle-> https://www.kaggle.com/ronitf/heart-disease-uci -> Discuss Roles / Responsibilities </h2>
 <p> Bruna/Mario: Beginning Framework for ML / Viable Plot formats / import dataframes </p>
 <p> Michael: Presentation layout and outlines for data (master slide views) </p>
 <h2> Phase 2a: Split work (Presentation Design 
