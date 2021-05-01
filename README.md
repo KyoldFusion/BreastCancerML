@@ -12,7 +12,7 @@ Phase 2b: K nearest Neighbor on ML data)
  
  Pa2 Create Eigenvectors/Eigen values with dot product multiplication and chart correlations of dataframe
   
- Pa3 Create correlation matrix of the X variables in Heart Disease dataframe with principle components/ test cumulative variance of columnar values.
+ <p> Pa3 Create correlation matrix of the X variables in Heart Disease dataframe with principle components/ test cumulative variance of columnar values. </P>
 --
 
  Pb1 Finish Master view slide deck deside
