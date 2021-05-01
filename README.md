@@ -10,7 +10,6 @@ Phase 2b: K nearest Neighbor on ML data) </h2>
  <p>Pa1. Import X_Train/Y_train models and dataframe into Jupyter notebook, Create Logistic Regression/predictions with confusion matrix (normalized / un-normalized) </p>
  <br>
  
- 
  Pa2. Create Eigenvectors/Eigen values with dot product multiplication and chart correlations of dataframe
  <br>
  
@@ -21,7 +20,7 @@ Phase 2b: K nearest Neighbor on ML data) </h2>
  <p> Pb2. Create graphics for presentation charts </p>
 
  <p> Pb3. Begin scripting information per slide deck before assignment of information. </p>
---
+<hr>
 
 Phase 4: Create Presentation outline and Review Visualizations (split 2:2) 03/02/21
 
