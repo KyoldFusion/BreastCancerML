@@ -13,15 +13,15 @@ Phase 2b: K nearest Neighbor on ML data)
  Pa2 Create Eigenvectors/Eigen values with dot product multiplication and chart correlations of dataframe
   
  Pa3 Create correlation matrix of the X variables in Heart Disease dataframe with principle components/ test cumulative variance of columnar values.
- 
 --
+
  Pb1 Finish Master view slide deck deside
   
  Pb2 Create graphics for presentation charts
 
  Pb3 Begin scripting information per slide deck before assignment of information.
- 
 --
+
 Phase 4: Create Presentation outline and Review Visualizations (split 2:2) 03/02/21
 
 ---
