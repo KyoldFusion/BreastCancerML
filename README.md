@@ -19,7 +19,7 @@ Phase 2b: K nearest Neighbor on ML data)
   
  Pb2 Create graphics for presentation charts
 
- Pb3 Begin scripting information per slide deck before assignment of information.
+ <p> Pb3 Begin scripting information per slide deck before assignment of information. </p>
 --
 
 Phase 4: Create Presentation outline and Review Visualizations (split 2:2) 03/02/21
