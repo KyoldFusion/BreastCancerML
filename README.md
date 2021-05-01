@@ -8,10 +8,10 @@ Phase 1: Import individual datasets from Kaggle-> https://www.kaggle.com/ronitf/
  <br>
 Phase 2b: K nearest Neighbor on ML data) </h2>
  Pa1. Import X_Train/Y_train models and dataframe into Jupyter notebook,
-      Create Logistic Regression/predictions with confusion matrix (normalized / un-normalized)
- 
+ Create Logistic Regression/predictions with confusion matrix (normalized / un-normalized)
+ <br>
  Pa2. Create Eigenvectors/Eigen values with dot product multiplication and chart correlations of dataframe
-  
+ br>
  <p> Pa3. Create correlation matrix of the X variables in Heart Disease dataframe with principle components/ test cumulative variance of columnar values. </P>
 <br>
 
