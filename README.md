@@ -7,18 +7,18 @@ Michael: Presentation layout and outlines for data (master slide views)
 Phase 2a: Split work (Presentation Design 
 Phase 2b: K nearest Neighbor on ML data)
 ----
- Pa1. Import X_Train/Y_train models and dataframe into Jupyter notebook,
+ Pa1 Import X_Train/Y_train models and dataframe into Jupyter notebook,
       Create Logistic Regression/predictions with confusion matrix (normalized / un-normalized)
  
- Pa2. Create Eigenvectors/Eigen values with dot product multiplication and chart correlations of dataframe
+ Pa2 Create Eigenvectors/Eigen values with dot product multiplication and chart correlations of dataframe
   
- Pa3. Create correlation matrix of the X variables in Heart Disease dataframe with principle components/ test cumulative variance of columnar values.
+ Pa3 Create correlation matrix of the X variables in Heart Disease dataframe with principle components/ test cumulative variance of columnar values.
 ----  
- Pb1. Finish Master view slide deck deside
+ Pb1 Finish Master view slide deck deside
   
- Pb2. Create graphics for presentation charts
+ Pb2 Create graphics for presentation charts
 
- Pb3. Begin scripting information per slide deck before assignment of information.
+ Pb3 Begin scripting information per slide deck before assignment of information.
 ---
 Phase 4: Create Presentation outline and Review Visualizations (split 2:2) 03/02/21
 ----
