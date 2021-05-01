@@ -11,6 +11,7 @@ Phase 2b: K nearest Neighbor on ML data) </h2>
  Create Logistic Regression/predictions with confusion matrix (normalized / un-normalized)
  <br>
  
+ 
  Pa2. Create Eigenvectors/Eigen values with dot product multiplication and chart correlations of dataframe
  <br>
  
