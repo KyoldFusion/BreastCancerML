@@ -1,8 +1,9 @@
 
 
-Phase 1: Import individual datasets from Kaggle-> https://www.kaggle.com/ronitf/heart-disease-uci -> Discuss Roles / Responsibilities||
-Bruna/Mario: Beginning Framework for ML / Viable Plot formats / import dataframes
-Michael: Presentation layout and outlines for data (master slide views)
+Phase 1: Import individual datasets from Kaggle-> https://www.kaggle.com/ronitf/heart-disease-uci -> Discuss Roles / Responsibilities
+<p> Bruna/Mario: Beginning Framework for ML / Viable Plot formats / import dataframes </p>
+<br>
+<p> Michael: Presentation layout and outlines for data (master slide views) </p>
 --
 Phase 2a: Split work (Presentation Design 
 Phase 2b: K nearest Neighbor on ML data)
