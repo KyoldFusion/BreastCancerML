@@ -15,7 +15,7 @@ Phase 2b: K nearest Neighbor on ML data) </h2>
  <br>
  
  <p> Pa3. Create correlation matrix of the X variables in Heart Disease dataframe with principle components/ test cumulative variance of columnar values. </P>
- 
+ <hr>
  Pb1.Finish Master view slide deck deside
   
  Pb2. Create graphics for presentation charts
