@@ -5,8 +5,8 @@ Phase 1: Import individual datasets from Kaggle-> https://www.kaggle.com/ronitf/
 <br>
 <p> Michael: Presentation layout and outlines for data (master slide views) </p>
 --
-Phase 2a: Split work (Presentation Design 
-Phase 2b: K nearest Neighbor on ML data)
+<h2> Phase 2a: Split work (Presentation Design 
+Phase 2b: K nearest Neighbor on ML data) </h2>
 --
  Pa1. Import X_Train/Y_train models and dataframe into Jupyter notebook,
       Create Logistic Regression/predictions with confusion matrix (normalized / un-normalized)
