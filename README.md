@@ -21,14 +21,3 @@ Phase 2b: K nearest Neighbor on ML data) </h2>
  <p> Pb3. Begin scripting information per slide deck before assignment of information. </p>
 <hr>
 
-Phase 4: Create Presentation outline and Review Visualizations (split 2:2) 03/02/21
-
----
- P1. Create framework/color schemes for data to be put into slide
- 
- P2. Update transitions and icons/pictures to ensure they are properly formatted
- 
- P3. Proof read for errors of spelling and slide transition timings.
-
-Phase 5: Finalize presentation and Practice 03/02/21
-----
